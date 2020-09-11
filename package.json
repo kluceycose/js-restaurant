@@ -1,0 +1,19 @@
+{
+  "name": "js-restaurant",
+  "version": "1.0.0",
+  "description": "JS Rendered Restaurant Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kluceycose/js-restaurant.git"
+  },
+  "author": "kluceycose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kluceycose/js-restaurant/issues"
+  },
+  "homepage": "https://github.com/kluceycose/js-restaurant#readme"
+}
